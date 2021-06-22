@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "CucumberOK", "CucumberOK\Test.tsp", "10EE997A-DCEE-46B3-8740-524D9AC28BA4"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\kung\Documents\Unified Functional Testing\CucumberOK\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Project("") = "JUnitOK", "JUnitOK\Test.tsp", "157CB4F6-9194-455F-BC4F-0109EE8C00EF"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\kung\Documents\Unified Functional Testing\JUnitOK\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Project("") = "RobotKO", "RobotKO\Test.tsp", "4E9E880B-4DAB-442F-8A1B-8FF339A5CCF2"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\kung\Documents\Unified Functional Testing\RobotKO\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		10EE997A-DCEE-46B3-8740-524D9AC28BA4.Debug|Any CPU.Build.0 = Debug|Any CPU
+		10EE997A-DCEE-46B3-8740-524D9AC28BA4.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		10EE997A-DCEE-46B3-8740-524D9AC28BA4.Release|Any CPU.Build.0 = Release|Any CPU
+		10EE997A-DCEE-46B3-8740-524D9AC28BA4.Release|Any CPU.ActiveCfg = Release|Any CPU
+		157CB4F6-9194-455F-BC4F-0109EE8C00EF.Debug|Any CPU.Build.0 = Debug|Any CPU
+		157CB4F6-9194-455F-BC4F-0109EE8C00EF.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		157CB4F6-9194-455F-BC4F-0109EE8C00EF.Release|Any CPU.Build.0 = Release|Any CPU
+		157CB4F6-9194-455F-BC4F-0109EE8C00EF.Release|Any CPU.ActiveCfg = Release|Any CPU
+		4E9E880B-4DAB-442F-8A1B-8FF339A5CCF2.Debug|Any CPU.Build.0 = Debug|Any CPU
+		4E9E880B-4DAB-442F-8A1B-8FF339A5CCF2.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		4E9E880B-4DAB-442F-8A1B-8FF339A5CCF2.Release|Any CPU.Build.0 = Release|Any CPU
+		4E9E880B-4DAB-442F-8A1B-8FF339A5CCF2.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
